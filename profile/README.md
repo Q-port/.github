@@ -30,7 +30,7 @@
 
 # 🧦 DB 설계도(ERD)
 
-![erd](../img/ERD.png)
+![erd](./ERD.png)
 
 # 👟 사용한 라이브러리(패키지)
 
