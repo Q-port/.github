@@ -30,7 +30,7 @@
 
 # 🧦 DB 설계도(ERD)
 
-![erd](./ERD.png)
+![erd](https://loving-skipjack-9c0.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F051be559-1e1e-4222-af09-68e6a7b905ff%2FUntitled.png?table=block&id=4f64cb2c-d6ac-4821-918f-d1977950fd77&spaceId=61fa9adc-5e93-4139-a4fb-cf6cc75e22e4&width=2000&userId=&cache=v2)
 
 # 👟 사용한 라이브러리(패키지)
 
